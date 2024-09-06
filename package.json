@@ -1,0 +1,23 @@
+{
+  "name": "logging_middleware",
+  "version": "1.0.0",
+  "description": " logging information about each incoming request, including the HTTP method, the requested URL, and the timestamp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logging",
+    "middleware",
+    "Express",
+    "request",
+    "HTTP",
+    "timestamp"
+  ],
+  "author": "Jessica Dolly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
